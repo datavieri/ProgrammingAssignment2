@@ -12,6 +12,6 @@
   >
 ```
 
-Plotting the product between m and its inverse matrix returns a nice diagonal matrix:
+Plotting the product between m and its inverse matrix gives a nice diagonal matrix:
 
 ![Screenshot](images/r-studio.png?raw=true)
